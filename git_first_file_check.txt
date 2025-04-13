@@ -1,0 +1,3 @@
+This is testing for working directory and 
+git status
+gives you untracked file which means Working directoy
