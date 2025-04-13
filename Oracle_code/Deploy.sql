@@ -1,0 +1,5 @@
+--Deploy below files
+--Deploy app
+--Deploy DDL
+--Deploy DML
+--Deploy Others
